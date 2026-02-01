@@ -1,43 +1,53 @@
-# Business — Generative Engine Optimization Map
+# Sababi Pita Panama — Generative Engine Optimization Map
+
+> A מסעדנות business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://sababi-pita-panama.zappy5.app
 
 ### Menu
-https://example.com/menu
+https://sababi-pita-panama.zappy5.app/menu
 
 ### About
-https://example.com/about
+https://sababi-pita-panama.zappy5.app/about
 
 ### Contact
-https://example.com/contact
+https://sababi-pita-panama.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://sababi-pita-panama.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://sababi-pita-panama.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://sababi-pita-panama.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Sababi Pita Panama
+Sababi Pita Panama is a business in the מסעדנות industry.
+
+## Target Audience
+קהילה יהודית ומטיילים ישראלים בפנמה
+
+## Industry
+מסעדנות
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://sababi-pita-panama.zappy5.app/sitemap.xml
+- **Robots.txt**: https://sababi-pita-panama.zappy5.app/robots.txt
